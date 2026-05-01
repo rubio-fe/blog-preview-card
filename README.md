@@ -34,7 +34,7 @@ Users should be able to:
 ## Links
 
 - Solution URL: https://github.com/rubio-fe/blog-preview-card
-- Live Site URL: https://your-live-site-url.com
+- Live Site URL: https://rubio-fe.github.io/blog-preview-card/
 
 ## What I Learned
 
